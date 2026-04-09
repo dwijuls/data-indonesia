@@ -25,7 +25,7 @@ struktur **id** Kecamatan diawali dengan **id** Provinsi dan **id** Kabupaten.
 
 struktur **id** Kelurahan diawali dengan **id** Provinsi, **id** Kabupaten, dan **id** Kecamatan.
 
-total ada 91.219 data.
+total ada 91.599 data.
 
 
 Contoh Penggunaan
